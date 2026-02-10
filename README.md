@@ -15,6 +15,15 @@
 - **Modern Arayüz:** Sade "Zinc & Amber" renk paleti ve Glassmorphism detaylarıyla premium kullanıcı deneyimi.
 - **Çoklu İşlem:** Kapat, Yeniden Başlat, Uyku Modu, Kilitle ve Oturumu Kapat seçenekleri.
 - **Tarih & Saat Desteği:** İster geri sayım başlatın, ister gelecekteki spesifik bir ana randevu verin.
+
+## 📸 Ekran Görüntüleri
+
+<p align="center">
+  <img src="screenshots/1.png" width="30%" alt="Ana Ekran" />
+  <img src="screenshots/2.png" width="30%" alt="Zamanlayıcı" />
+  <img src="screenshots/3.png" width="30%" alt="İşlem Seçimi" />
+</p>
+
 - **Taşınabilir (Portable):** Kurulum gerektirmez, tek bir `.exe` ile her yerde çalışır.
 
 ## 🛠️ Teknik Stack
